@@ -68,10 +68,25 @@ Dokumentation meines Lernfortschritts
 - README-Datei angelegt.
 - Struktur für die Dokumentation des Lernfortschritts begonnen.
 
+### Informationsblatt im Befindlichkeitsinterview optimiert
+- Skill-Infoblatt überarbeitet
+- Text auf Verständlichkeit geprüft
+- Abschnitte klarer formuliert
+
+###Gestaltung der Konsolenausgabe
+- Auswertung optisch überarbeitet
+- Überschriften und Abstände verbessert
+- Informationen/Fakten übersichtlicher dargestellt
+- Meldungen sichtbarer gestaltet
+
 ### Erkenntnisse
 - Ein praktisches Projekt zu starten, unterstützt mein eigenständiges Lernen mehr als nur die reine Theorie.
 - Kleine Komfortfunktionen benötigen oft überraschend viel Logik.
 - Schleifen verstehe ich besser, wenn ich ein konkretes Problem lösen möchte.
 - Fehler selbst zu finden kostet Zeit, führt aber zu nachhaltigem Verständnis.
+- Das Programm muss nicht nur funktionieren, sondern auch verständlich sein.
+- Gute Struktur verbessert die Lesbarkeit.
+- Benutzerfreundlichkeit ist ein wichtiger Teil der Softwareentwicklung.
+- Kleine optische Verbesserungen können die Wirkung des Programms deutlich verändern.
 
 
