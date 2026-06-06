@@ -73,7 +73,7 @@ Dokumentation meines Lernfortschritts
 - Text auf Verständlichkeit geprüft
 - Abschnitte klarer formuliert
 
-###Gestaltung der Konsolenausgabe
+### Gestaltung der Konsolenausgabe
 - Auswertung optisch überarbeitet
 - Überschriften und Abstände verbessert
 - Informationen/Fakten übersichtlicher dargestellt
