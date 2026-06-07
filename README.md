@@ -79,6 +79,12 @@ Dokumentation meines Lernfortschritts
 - Informationen/Fakten übersichtlicher dargestellt
 - Meldungen sichtbarer gestaltet
 
+### Fehlermeldung mit try/catch
+- try/catch kennengelernt
+- NumberFormatException verwendet
+- Benutzereingaben auf ungültige Zeichen gepprüft
+- Bereichsprüfung und Fehlerbehandlung kombiniert
+
 ### Erkenntnisse
 - Ein praktisches Projekt zu starten, unterstützt mein eigenständiges Lernen mehr als nur die reine Theorie.
 - Kleine Komfortfunktionen benötigen oft überraschend viel Logik.
