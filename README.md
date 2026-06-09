@@ -79,6 +79,7 @@ Dokumentation meines Lernfortschritts
 - Informationen/Fakten übersichtlicher dargestellt
 - Meldungen sichtbarer gestaltet
 
+
 ### Fehlermeldung mit try/catch
 - try/catch kennengelernt
 - NumberFormatException verwendet
@@ -94,5 +95,17 @@ Dokumentation meines Lernfortschritts
 - Gute Struktur verbessert die Lesbarkeit.
 - Benutzerfreundlichkeit ist ein wichtiger Teil der Softwareentwicklung.
 - Kleine optische Verbesserungen können die Wirkung des Programms deutlich verändern.
+
+
+## Woche 2 (08.06.2026 bis 14.06.2026)
+
+### Auswertung 
+- Wertebereich für die Parameter (Schlafqualität/Stimmung/Anspannung) erstellt
+- Gelernt wie eingegebene Daten mit if else Anweisung weiterverarbeitet werden können
+- Eingaben strukturiert verarbeitet und übersichtlich gestaltet
+
+### Gestaltung der Konsolenausgabe
+- Auswertung der erhaltenen Fakten mit Harken und Kreuzsymbol erweitert
+
 
 
