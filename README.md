@@ -49,7 +49,7 @@ Dokumentation meines Lernfortschritts
 - replace() kennengelernt.
 - Prozentzeichen(%) entfernt.
 - String in int umgewandelt.
-- Integer.perseInt() verwendet.
+- Integer.parseInt() verwendet.
 - Prozentangaben wie "40%" akzeptiert.
 
 ### Logische Operatoren
@@ -106,6 +106,32 @@ Dokumentation meines Lernfortschritts
 
 ### Gestaltung der Konsolenausgabe
 - Auswertung der erhaltenen Fakten mit Harken und Kreuzsymbol erweitert
+
+### Projektstart Fitness-Assistent
+- Ein neues Projektkonzept geplant um Lerninhalte aus Woche 1 zu vertiefen
+- Ein neues GitHub-Repository erstellt und veröffentlicht
+
+### Wiederholte Lerninhalte im neuen Projekt
+- If else Anweisungen geschrieben
+- try/catch angewendet um Fehlermeldungen bei der Benutzereingabe abzufangen
+- Benutzereingaben mit scanner einlesen (Datentyp String und Int)
+- Eingabe als String eingelesen/Leerzeichen und Maßeinheiten via contains() und replace()ersetzt
+- Gestalltung der Konsolenansicht 
+
+### Datentyp Double verarbeitet
+- Datentyp Double gearbeitet, um Dezimalzahlen korrekt zu verarbeiten
+- Datentyp String in Double umgewandelt mit Double.parseDouble()
+- Eingabevalidierung mit try/catch, falls Benutzer Komma statt Punkt eingibt
+- Double Variable auf zwei Nachkommastellen gerundet mit System.out.printf(...%.2f%n, bmi)
+
+### Berechnung angegebener Werte für den BMI
+- Formel für die Berechnung des BMI recherchiert und in das Programm implementiert
+
+### Erkenntnisse
+- Programmierarbeit besteht nicht nur aus Code schreiben
+- Ein Projekt bedarf Planung und der Überlegung, welche Daten benötigt werden
+- Auch muss überlegt werden, wie die Benutzereingabe gestaltet werden soll um die Werte weiterverarbeiten zu können
+- Es bedarf Wiederholung der Lerninhalte um diese weiter zu verinnerlichen
 
 
 
