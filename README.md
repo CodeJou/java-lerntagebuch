@@ -126,12 +126,15 @@ Dokumentation meines Lernfortschritts
 
 ### Berechnung angegebener Werte für den BMI
 - Formel für die Berechnung des BMI recherchiert und in das Programm implementiert
+- Auswertung für den BMI Wert männlich/weiblich/divers differenziert gestalltet um Körperzusammensetzung besser berücksichtigen zu können
+- Tabelle zur Auswertung erstellt und Konsolenausgabe übersichtlicher gestaltet
+- Mathematische Formeln zur Berechnung des BMI sowie der Wertebereiche (Untergewicht/Normalgewicht/Übergewicht/Adipositas) angewendet und gelernt diese strukturiert in Java zu verarbeiten
 
 ### Erkenntnisse
 - Programmierarbeit besteht nicht nur aus Code schreiben
 - Ein Projekt bedarf Planung und der Überlegung, welche Daten benötigt werden
 - Auch muss überlegt werden, wie die Benutzereingabe gestaltet werden soll um die Werte weiterverarbeiten zu können
 - Es bedarf Wiederholung der Lerninhalte um diese weiter zu verinnerlichen
-
+- Es gab einen Rundungsfehler den ich beheben konnte. Ein "kleines" Detail führte zu einer auffälligen Abweichung in der Ergebnisausgabe (25.0 statt 24.91 angegeben)
 
 
