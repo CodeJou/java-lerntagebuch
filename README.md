@@ -116,7 +116,10 @@ Dokumentation meines Lernfortschritts
 - try/catch angewendet um Fehlermeldungen bei der Benutzereingabe abzufangen
 - Benutzereingaben mit scanner einlesen (Datentyp String und Int)
 - Eingabe als String eingelesen/Leerzeichen und Maßeinheiten via contains() und replace()ersetzt
-- Gestalltung der Konsolenansicht 
+- Gestalltung der Konsolenansicht
+- Wertebereiche festgelegt und mittels if Anweisungen überprüft
+- Werte verglichen mit kleiner, kleiner oder gleich,größer,größer oder gleich
+- Boolische Operatoren verwendet (logisches Und + logisches Oder sowie bedingtes und + bedingtes oder)
 
 ### Datentyp Double verarbeitet
 - Datentyp Double gearbeitet, um Dezimalzahlen korrekt zu verarbeiten
@@ -130,11 +133,17 @@ Dokumentation meines Lernfortschritts
 - Tabelle zur Auswertung erstellt und Konsolenausgabe übersichtlicher gestaltet
 - Mathematische Formeln zur Berechnung des BMI sowie der Wertebereiche (Untergewicht/Normalgewicht/Übergewicht/Adipositas) angewendet und gelernt diese strukturiert in Java zu verarbeiten
 
+### Implementierung Grundumsatz in der Ausgabe
+- Berechnung mithilfe der Mifflin-St.Jeor-Formel durchgeführt
+- Differenzierung bei der Berechnung m/w/d berücksichtigt und Formel angepasst
+- Ausgabe zu Informationen über Grundumsatz ermöglicht
+
 ### Erkenntnisse
 - Programmierarbeit besteht nicht nur aus Code schreiben
 - Ein Projekt bedarf Planung und der Überlegung, welche Daten benötigt werden
 - Auch muss überlegt werden, wie die Benutzereingabe gestaltet werden soll um die Werte weiterverarbeiten zu können
 - Es bedarf Wiederholung der Lerninhalte um diese weiter zu verinnerlichen
 - Es gab einen Rundungsfehler den ich beheben konnte. Ein "kleines" Detail führte zu einer auffälligen Abweichung in der Ergebnisausgabe (25.0 statt 24.91 angegeben)
+- Geschriebener Code wiederholt sich an vielen Stellen. Den Code kann ich kürzen indem ich Funktionen und Methoden anwenden (Themenbereiche die ich im nächsten Schritt lernen möchte)
 
 
