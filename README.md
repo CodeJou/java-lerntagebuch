@@ -79,7 +79,6 @@ Dokumentation meines Lernfortschritts
 - Informationen/Fakten übersichtlicher dargestellt
 - Meldungen sichtbarer gestaltet
 
-
 ### Fehlermeldung mit try/catch
 - try/catch kennengelernt
 - NumberFormatException verwendet
@@ -145,5 +144,31 @@ Dokumentation meines Lernfortschritts
 - Es bedarf Wiederholung der Lerninhalte um diese weiter zu verinnerlichen
 - Es gab einen Rundungsfehler den ich beheben konnte. Ein "kleines" Detail führte zu einer auffälligen Abweichung in der Ergebnisausgabe (25.0 statt 24.91 angegeben)
 - Geschriebener Code wiederholt sich an vielen Stellen. Den Code kann ich kürzen indem ich Funktionen und Methoden anwenden (Themenbereiche die ich im nächsten Schritt lernen möchte)
+
+
+## Woche 3 (15.06.2026 bis 21.06.2026)
+### Wiederholte Lerninhalte im neuen Projekt
+- If else Anweisungen geschrieben
+- try/catch angewendet um Fehlermeldungen bei der Benutzereingabe abzufangen
+- Benutzereingaben mit scanner einlesen (Datentyp String und Int)
+- Eingabe als String eingelesen/Leerzeichen und Maßeinheiten via contains() und replace()ersetzt
+- Gestalltung der Konsolenansicht
+- Wertebereiche festgelegt und mittels if Anweisungen überprüft
+- Werte verglichen mit kleiner, kleiner oder gleich,größer,größer oder gleich
+- Boolische Operatoren verwendet (logisches Und + logisches Oder sowie bedingtes und + bedingtes oder)
+
+### Projektstart Fitness-Assistent-Reworked
+- Variablen wurden genauer benannt um sie einfacher weiterverarbeiten zu können
+- Struktur des Programmcodes optimiert (Abfrage der Körpermesswerte/Interpretation/Auswertung/Methoden
+- Erste Methoden implementiert
+- BMI Interpretation abhänngig vom Alter berechnet
+- Einordnung des angegebenen Alters in eine Altersgruppe
+
+### Methoden
+- BMI Werte für die Wertetabelle anhand der festgestellten Altersgruppe berechnet
+- Eingabevalidierung der Größe und des Gewichts mit einer Methode optimiert
+
+### Vergleichsoperatoren
+- Zu den bereits angewendeten Operatoren(<,<=,>,>=) erfolgte im neuen Projekt die Durchführung eines Vergleichs mit dem Operator(==)
 
 
