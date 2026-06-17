@@ -163,6 +163,8 @@ Dokumentation meines Lernfortschritts
 - Erste Methoden implementiert
 - BMI Interpretation abhänngig vom Alter berechnet
 - Einordnung des angegebenen Alters in eine Altersgruppe
+- try/catch Eingabevalidierung angewendet und Scannerposition korrigiert
+- Formel zur Berechnung des Grundumsatz/Leistungsumsatz mithilfe des PAL-Wertes ermittelt/angewendet
 
 ### Methoden
 - BMI Werte für die Wertetabelle anhand der festgestellten Altersgruppe berechnet
@@ -171,4 +173,7 @@ Dokumentation meines Lernfortschritts
 ### Vergleichsoperatoren
 - Zu den bereits angewendeten Operatoren(<,<=,>,>=) erfolgte im neuen Projekt die Durchführung eines Vergleichs mit dem Operator(==)
 
+### Werte runden
+- Zahlenwerte auf bestimmte Nachkommastelle mit Math.round gerundet
+- Nachkommastelle vom Datentyp double nachträglich entfernt
 
