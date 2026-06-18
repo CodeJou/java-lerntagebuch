@@ -165,6 +165,8 @@ Dokumentation meines Lernfortschritts
 - Einordnung des angegebenen Alters in eine Altersgruppe
 - try/catch Eingabevalidierung angewendet und Scannerposition korrigiert
 - Formel zur Berechnung des Grundumsatz/Leistungsumsatz mithilfe des PAL-Wertes ermittelt/angewendet
+- Formel zur Berechnung des Grundumsatzes/Leistungsumsatzes und Gesamtumsatzes implementiert und ausgewertet ausgegeben
+- Makronährstoffverteilung (KH;E;F) anhand des Gesamtumsatzes berechnet und in der Auswertung mittels einer Methode ergänzt
 
 ### Methoden
 - BMI Werte für die Wertetabelle anhand der festgestellten Altersgruppe berechnet
@@ -177,3 +179,9 @@ Dokumentation meines Lernfortschritts
 - Zahlenwerte auf bestimmte Nachkommastelle mit Math.round gerundet
 - Nachkommastelle vom Datentyp double nachträglich entfernt
 
+### Erkenntnisse
+- Ich habe diese Woche angefangen mich mit Methoden zu bewassen
+- Ich habe verstanden, dass eine Methode einen Namen, Parameter und einen Rückgabewert besitzen kann
+- Nicht jede Methode muss einen Wert zurückgeben (void)
+- bestehende Programmteile meines Fitness-Assistenten habe ich in Methoden ausgelagert
+- Lernziel: Ich möchte mich weiter mit der strukturierung meines Codes beschäftigen und werde dazu weitere Methoden verwenden um wiederkehrende Aufgaben auszulagern
