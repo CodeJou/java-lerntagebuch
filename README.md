@@ -171,6 +171,10 @@ Dokumentation meines Lernfortschritts
 ### Methoden
 - BMI Werte für die Wertetabelle anhand der festgestellten Altersgruppe berechnet
 - Eingabevalidierung der Größe und des Gewichts mit einer Methode optimiert
+- Programmteile im Eingabebereich als Methoden ausgelagert (Eingabe lesen/prüfen Größe,Gewicht,Alter,Geschlecht,Aktivitätslevel)
+- Programmteile im Verarbeitungsteil als Methoden ausgelagert (Berechnung BMI,Altersgruppe,Grundumsatz,Leistungsumsatz,Gesamtumsatz)
+- Programmteile zur Ausgabe der Auswertung als Methoden ausgelagert (Profil,BMI Tabelle,Energiebedarf)
+- Angewendete Funktionen beinhalten sowohl einzelne als auch mehrere Parameter aber auch Funktionen ohne Rückgabewert
 
 ### Vergleichsoperatoren
 - Zu den bereits angewendeten Operatoren(<,<=,>,>=) erfolgte im neuen Projekt die Durchführung eines Vergleichs mit dem Operator(==)
@@ -185,3 +189,8 @@ Dokumentation meines Lernfortschritts
 - Nicht jede Methode muss einen Wert zurückgeben (void)
 - bestehende Programmteile meines Fitness-Assistenten habe ich in Methoden ausgelagert
 - Lernziel: Ich möchte mich weiter mit der strukturierung meines Codes beschäftigen und werde dazu weitere Methoden verwenden um wiederkehrende Aufgaben auszulagern
+- Ich habe Methoden angewendet um die main() übersichtlicher zu gestalten (Die main(9-Methode ist nun deutlich übersichtlicher geworden
+- Ich habe Hilfsmethoden angewendet um die jeweiligen Methoden kürzer schreiben zu können (weniger Wiederholungen)
+- Lernziel: Methoden im nächsten Schritt prüfen da immernoch vereinzelt Wiederholungen vorkommen
+- Gedanke : ich glaube das die angewendeten Methoden zum Teil noch optimiert werden können
+- Lernziel: Lerninhalte zum Themenbereich Funktionen wiederholen und Mithilfe des Buchs (Vorkurs Informatik für dummies) vertiefen.
