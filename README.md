@@ -194,3 +194,18 @@ Dokumentation meines Lernfortschritts
 - Lernziel: Methoden im nächsten Schritt prüfen da immernoch vereinzelt Wiederholungen vorkommen
 - Gedanke : ich glaube das die angewendeten Methoden zum Teil noch optimiert werden können
 - Lernziel: Lerninhalte zum Themenbereich Funktionen wiederholen und Mithilfe des Buchs (Vorkurs Informatik für dummies) vertiefen.
+
+## Woche 4 (22.06.2026 bis 28.06.2026)
+### Methoden
+- Hilfsmethode zur Prüfung des Wertebereichs PAL hinzugefügt und aus Methode lesePAL ausgelagert
+- Hilfsmethode zur Prüfung des Wertebereichs der Altersspanne hinzugefügt und aus Methode leseAlter ausgelagert
+- Hilfsmethode zur Prüfung des Wertebereichs zur Größe hinzugefügt und aus der Methode leseGroesse ausgelagert
+- Methode zur Bestimmung des BMI Wertes zur Obergrenze entfernt und diese Berechnung zur Methode gibBMItabelleaus hinzugefügt
+
+### Weitere Überprüfungen
+- Schreibweise von Variablen und Methoden an die Java-Konventionen angeglichen (Kleinschreibung+Umlaute)
+
+### Erkenntnisse
+- Hilfmethoden hinzuzufügen verkürzt den Programmcode innerhalb der Methode und gestaltet diese Übersichtlicher
+- Methoden erfüllen einen Zweck
+- Themenbereich Methoden/Funktionen weiter bearbeiten
