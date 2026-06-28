@@ -209,3 +209,21 @@ Dokumentation meines Lernfortschritts
 - Hilfmethoden hinzuzufügen verkürzt den Programmcode innerhalb der Methode und gestaltet diese Übersichtlicher
 - Methoden erfüllen einen Zweck
 - Themenbereich Methoden/Funktionen weiter bearbeiten
+
+### Projektstart Skillchain
+- Arrays als neues Thema gestartet
+- Zum Lernen das Projekt Skillchain gestartet und in Eclips angelegt
+- Überlegt welche Daten ein Skill besitzen soll (Name,Dauer der Anwendung,Skillwert)
+
+### Wiederholungen der letzten Woche
+- Anwenden von Methoden und Hilfsmethoden um den Programmcode übersichtlicher zu gestalten
+- Schreibweise der Methoden und Variablen an Java-Konventionen angepasst
+- Eingabevalidierung mit try/catch 
+- Prüfung Wertebereich mit While-Schleife
+- Vergleichsoperatoren angewendet
+- Datentyp von String zu double verändert
+
+### Erkenntnisse/Gedanken
+- Ich wende im neuen Projekt Arrays an, möchte ich zu dem neuen Themenbereich die Objektorientierung als Thema hinzunehmen?
+- Lernziel für nächste Woche: Arrays erzeugen, anwenden, Werte weiterverabreiten
+- Projekt Skillchain fortsetzen
