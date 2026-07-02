@@ -227,3 +227,11 @@ Dokumentation meines Lernfortschritts
 - Ich wende im neuen Projekt Arrays an, möchte ich zu dem neuen Themenbereich die Objektorientierung als Thema hinzunehmen?
 - Lernziel für nächste Woche: Arrays erzeugen, anwenden, Werte weiterverabreiten
 - Projekt Skillchain fortsetzen
+
+## Woche 5 (29.06.2026 bis 05.07.2026)
+### Arrays
+- Parallele Arrays werden über den gleichen Index miteinander verbunden. Die erleichtert die Weiterverarbeitung.
+- erstellen einer for-Schleife um Skills gefiltert nach eingegebener Zeit sowie Kategorie auszugeben
+- mit array.length bleibt die Schleife flexiebel, auch wenn ich nachträglich die Liste der Skills erweitern möchte
+- Hilfsvariable wurde angewendet um jede Kategorie nur einmal ausgeben zu lassen. (Hilfsvariable war der "Start")
+
