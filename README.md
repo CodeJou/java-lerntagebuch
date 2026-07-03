@@ -235,3 +235,12 @@ Dokumentation meines Lernfortschritts
 - mit array.length bleibt die Schleife flexiebel, auch wenn ich nachträglich die Liste der Skills erweitern möchte
 - Hilfsvariable wurde angewendet um jede Kategorie nur einmal ausgeben zu lassen. (Hilfsvariable war der "Start")
 
+### Auswahlalgorithmus für Skillchain Version 1
+- eine zweite for-Schleife verarbeitet anschließend ausschließlich die gefilterten Skills
+- Algorithmus wählt aus jeder vorhandenen Kategorie einen Skill aus
+
+### Zwischenspeicherung gefilterter Skills mittels Hilfsvariable
+- Einführung Hilfsvariable "anzahlPassenderSkills"
+- Speicherung passender Skill-Indizes im Array "passende Skills"
+- Mithilfe der Hilfsvariable "anzahlPassenderSkills" werden passende Skills fortlaufend gespeichert, ohne Lücken im Array zu erzeugen
+  
