@@ -238,9 +238,24 @@ Dokumentation meines Lernfortschritts
 ### Auswahlalgorithmus für Skillchain Version 1
 - eine zweite for-Schleife verarbeitet anschließend ausschließlich die gefilterten Skills
 - Algorithmus wählt aus jeder vorhandenen Kategorie einen Skill aus
+- Algorithmus erweitert 
 
 ### Zwischenspeicherung gefilterter Skills mittels Hilfsvariable
 - Einführung Hilfsvariable "anzahlPassenderSkills"
 - Speicherung passender Skill-Indizes im Array "passende Skills"
 - Mithilfe der Hilfsvariable "anzahlPassenderSkills" werden passende Skills fortlaufend gespeichert, ohne Lücken im Array zu erzeugen
+  
+### Skillchain erweitert
+- Ausgabe der Anwendungsdauer jedes Skills ergänzt
+- Ausgabe der Effektivität (1-5 Punkte) ergänzt
+
+### Zeitbegrenzung vorbereitet
+- Mithilfe einer Hilfsvariable wird die Skillchain jetzt auf die eingegebene Anwendungsdauer des Benutzers begrenzt
+- Zeitprüfung in die zweite for-Schleife integriert
+
+### Erkenntnisse
+- parallele Arrays möchte ich durch Klasse Skill ersetzen
+- Alle Eigenschaften des Skills gehören zusammen und können deshalb als Objekt zusammengefasst werden
+- Umbau auf objektorientiertes Programmieren für die nächsten Arbeitseinheiten geplant
+- Der Algorithmus funktioniert, ist aber noch nicht optimal
   
