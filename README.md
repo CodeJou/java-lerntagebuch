@@ -258,4 +258,30 @@ Dokumentation meines Lernfortschritts
 - Alle Eigenschaften des Skills gehören zusammen und können deshalb als Objekt zusammengefasst werden
 - Umbau auf objektorientiertes Programmieren für die nächsten Arbeitseinheiten geplant
 - Der Algorithmus funktioniert, ist aber noch nicht optimal
+
+## Woche 6 (20.07.2026 bis 26.07.2026)
+### Einstieg in die objektorientierte Programmierung (OOP)
+- Erste Klasse "Skill" erstellt
+- Eigenschaften eines Skills (Name, Kategorie,Dauer,Effektivität) als Attribute zusammengefasst
+- Konstruktor erstellt, um neue Skill-Objekte zu erzeugen
+- Verständnis entwickelt, dass eine Klasse eine "Bauanleitung" für Objekte darstellt
+
+### Datenstrukturen verbessert
+- Die bisherigen parallelen Arrays wurden durch ein Array "Skill" ersetzt
+- Alle Eigenschaften eines Skills befinden sich nun in einem Objekt
+
+### Methode angepasst
+- Methode auf Objektorientierung umgestellt
+- Zugriff erfolgt nun über Objektattribute statt über mehrere Arrays
+
+### Fehlersuche
+- Debug-Ausgabe zur Kontrolle von Parametern eingesetzt
+- Fehler durch vertauschte Methodenparameter (stresslevel und zeit) gefunden und behoben
+
+### Persönliche Erkenntnisse
+- Eine Klasse beschreibt den Aufbau eines einzelnen Objekts
+- Im Anschluss konnte ich mehrere Objekte erzeugen
+
+### Nächster Schritt
+- Auswahl der SkillChain optimieren
   
