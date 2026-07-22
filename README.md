@@ -281,6 +281,13 @@ Dokumentation meines Lernfortschritts
 ### Persönliche Erkenntnisse
 - Eine Klasse beschreibt den Aufbau eines einzelnen Objekts
 - Im Anschluss konnte ich mehrere Objekte erzeugen
+- Das Umstellen eines bestehenden Arrays auf Objekte ist deutlich anspruchsvoller als eine reine Klasse zu erstellen
+- Ich merke das ich die objektorientierte Denkweise noch üben/verinnerlichen muss
+- Besonders das Umstellen bereits vorhandener Methoden fällt mir schwer
+
+### nächste Schritte
+- Objektorientierung weiter verinnerlichen und Code entsprechend anpassen
+
 
 ### Nächster Schritt
 - Auswahl der SkillChain optimieren
