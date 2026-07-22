@@ -287,8 +287,9 @@ Dokumentation meines Lernfortschritts
 
 ### nächste Schritte
 - Objektorientierung weiter verinnerlichen und Code entsprechend anpassen
-
-
-### Nächster Schritt
 - Auswahl der SkillChain optimieren
+
+### Methode in Klasse Skill
+- erste Methode in die Klasse Skill verschoben
+- Ausgabe von Name, Dauer und Effektivität innerhalb der Skillchain erfolgt jetzt über die Methode in der Klasse Skill 
   
