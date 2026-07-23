@@ -273,6 +273,9 @@ Dokumentation meines Lernfortschritts
 ### Methode angepasst
 - Methode auf Objektorientierung umgestellt
 - Zugriff erfolgt nun über Objektattribute statt über mehrere Arrays
+- Methode zur prüfung des Stressbereichs verschoben
+- Verantwortlichkeit zwischen Main und der Klasse Stressbereich ist nun klarer getrennt
+- Methode in der Main umgeschrieben. pruefeStressbereich enthält jetzt eine For-Schleife um jedes Objekt der Klasse Stressbereich durchzulaufen.
 
 ### Fehlersuche
 - Debug-Ausgabe zur Kontrolle von Parametern eingesetzt
@@ -291,5 +294,9 @@ Dokumentation meines Lernfortschritts
 
 ### Methode in Klasse Skill
 - erste Methode in die Klasse Skill verschoben
-- Ausgabe von Name, Dauer und Effektivität innerhalb der Skillchain erfolgt jetzt über die Methode in der Klasse Skill 
+- Ausgabe von Name, Dauer und Effektivität innerhalb der Skillchain erfolgt jetzt über die Methode in der Klasse Skill
+
+### Methode in Klasse Stressbereich
+- erste Methode in Klasse Stressbereich ausgelagert
+- Jetzt prüft jeder Stressbereich für sich, ob die Benutzereingabe der Stresseinschätzung mit den Antributen übereinstimmt
   
