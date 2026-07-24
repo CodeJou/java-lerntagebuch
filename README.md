@@ -299,4 +299,11 @@ Dokumentation meines Lernfortschritts
 ### Methode in Klasse Stressbereich
 - erste Methode in Klasse Stressbereich ausgelagert
 - Jetzt prüft jeder Stressbereich für sich, ob die Benutzereingabe der Stresseinschätzung mit den Antributen übereinstimmt
+
+### Bearbeitungsstand 24.07
+- Mir ist aufgefallen, das ich eine Methode codiert habe, die gleich mehrere Aufgaben übernimmt (Skills filtern/Skillliste ausgeben/Skillchain berechnen)
+- Jede Aufgabe soll durch eine Methode erledigt werden, um den Programmcode übersichtlicher zu gestalten und eine spätere Weiterverabreitung zu vereinfachen
+- Heute habe ich bereits eine Methode entwickelt, die alle Skills anhand der eingegebenen Zeit sowie der angegebenen Stresseinschätzung filtert 
+- In einer zweiten Methode wird diese gefilterte Liste ausgegeben (Dafür habe ich ein Array erzeugt "passendeSkills" um die neue Liste zu speichern)
+- im nächsten Schritt werde ich den Algorithmus anpassen
   
